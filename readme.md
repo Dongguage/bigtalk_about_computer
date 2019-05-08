@@ -1,7 +1,7 @@
 ## 本仓库收集《大话计算机》一书的勘误信息与资源文件
 
 - [前言和目录](./chapter-1/erratum.md )
-- [开篇 苦想计算机——以使用者的名义](./chapter1/erratum.md )
+- [开篇 苦想计算机——以使用者的名义](./chapter0/erratum.md )
 - [第一章 电控开关——计算机世界的基石（P1）](./chapter1/erratum.md )
 - [第二章 解脱人手——程序控制计算机（P98）](./chapter2/erratum.md )
 - [第三章 开关的进化——从机械到芯片（P150）](./chapter3/erratum.md )
