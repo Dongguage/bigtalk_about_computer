@@ -1,5 +1,6 @@
 ## 本仓库收集《大话计算机》一书的勘误信息与资源文件
 
+- [前言和目录](./chapter-1/erratum.md )
 - [开篇 苦想计算机——以使用者的名义](./chapter1/erratum.md )
 - [第一章 电控开关——计算机世界的基石（P1）](./chapter1/erratum.md )
 - [第二章 解脱人手——程序控制计算机（P98）](./chapter2/erratum.md )
@@ -11,7 +12,7 @@
 - [第八章 绘声绘色——计算机如何处理声音和图像（P802）](./chapter8/erratum.md )
 - [第九章 万箭齐发——加速计算与超级计算机（P994）](./chapter9/erratum.md )
 - [第十章 计算机操作系统——舞台幕后的工作者（P1068）](./chapter10/erratum.md )
-- [第十一章 现代计算机系统——形态与生态（P1350）](./chapter11/erratum.md )
+- [第十一章 现代计算机系统形态与生态（P1350）](./chapter11/erratum.md )
 - [第十二章 机器学习与人工智能（P1430）](./chapter12/erratum.md )
 - [尾声 狂想计算机——以创造者的名义（P1494）](./chapter13/erratum.md )
 ---
