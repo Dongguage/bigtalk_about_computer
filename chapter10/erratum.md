@@ -12,5 +12,5 @@
 
 | 页码 | 具体位置               | 原内容 | 修改后的内容 | 贡献者 |
 | ---- | ---------------------- | ------ | ------------ | ------ |
-| P1087   | 右侧 | 切换进程后如果有asid的话tlb不用全清空 | 增加对asid的描述 | -      |
+| P1087   | 右侧提示框 | 目前主流的处理器中都会有iTLB（Instruction TLB）和dTLB（Data TLB），分别与iCache和 dCache对应。 | 目前主流的处理器中都会有iTLB（Instruction TLB）和dTLB（Data TLB），分别与iCache和 dCache对应。另外，切换进程后如果将整个TLB都清除，很不划算，目前主流CPU内部都实现了ASID（Address Space ID）机制，只要为TLB中的每个条目记录一列ASID，就可以避免动辄全清了。 | -      |
 
