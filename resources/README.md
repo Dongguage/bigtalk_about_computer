@@ -16,8 +16,8 @@
 - [尾声 狂想计算机——以创造者的名义](./chapter13/erratum.md )
 ---
 - [本书资源文件](./resources/ )
--     [“bigtalk”](./resources/“bigtalk”.md )
--     [《大话计算机》11份思维导图源文件](./resources/《大话计算机》11份思维导图源文件.rar )
--     [《大话计算机》电子版介绍](./resources/《大话计算机》电子版介绍 2019-05-07.pdf )
--     [外部相关链接](./resources/外部相关链接.md )
--     [电路运行仿真](./resources/电路运行仿真.md )    	
+- [“bigtalk”](./resources/“bigtalk”.md )
+- [《大话计算机》11份思维导图源文件](./resources/《大话计算机》11份思维导图源文件.rar )
+- [《大话计算机》电子版介绍](./resources/《大话计算机》电子版介绍 2019-05-07.pdf )
+- [外部相关链接](./resources/外部相关链接.md )
+- [电路运行仿真](./resources/电路运行仿真.md )    	
